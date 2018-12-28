@@ -1,0 +1,9 @@
+Building METRO
+
+See doc/readme-qt.rst for instructions on building METRO QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of METRO.
+
+See doc/build-*.txt for instructions on building METROd,
+the intended-for-services, no-graphical-interface, reference
+implementation of METRO.
